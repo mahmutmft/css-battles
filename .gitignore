@@ -1,0 +1,14 @@
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore node_modules folder (if applicable)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore any other files or folders you want to exclude 
